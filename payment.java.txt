@@ -18,5 +18,9 @@ for( int i=0;i<n;i++)
 	}
 }
 1 TC Valid array size
+
+
+new chnages 1 chnage
+
 2 TC BV 
 3 TC PSVM 
