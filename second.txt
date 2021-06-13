@@ -1,0 +1,26 @@
+
+
+
+int a[]={}
+int value=10;
+int n=a[].size(),sum=0;
+
+for( int i=0;i<n;i++)
+{
+	for(j=i+1;j<n;j++)
+	{
+	sum=a[i]+a[j];
+	if(sum==value)
+		SYSO(true);
+	else 
+		SYSO(flase);
+
+	}
+}
+1 TC Valid array size
+
+
+new chnages 1 chnage
+
+2 TC BV 
+3 TC PSVM 
